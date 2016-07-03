@@ -1,0 +1,5 @@
+2
+nhap mon lap trinh
+mon hoc bat buoc cntt
+khoa hoc tu nhien
+truong dao tao cac mon tu nhien
